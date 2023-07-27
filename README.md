@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div><h1>Ezequiel Figueiredo Dawud</h1>
+<img src="Frame 4.svg" style= width:200px></div>
+
+Olá, me chamo Ezequiel Dawud
+Sou estudante de Análise e desenvolvimento de sistemas na faculdade São Francisco de Assis, busco entrar na área de desenvolvimento Web como desenvolvedor Front End a partir de um estágio. Sou inquieto por natureza, já tenho uma formação superior em Agronomia - UFRGS, porém decidi mudar de área por ser mais conectado a área de desenvolvimento e por tudo o que ela pode fazer.
+
+
+🔭 Atualmente, estou estudando HTML, CSS, Lógica de programação e JavaScript.  (Além dos conteúdos vistos na graduação em ADS).
+🌱 Busco o aperfeiçoamento diário, aplicando os conhecimentos adquiridos nos cursos em meus projetos.
+🤝 Estou procurando estágio para poder aplicar meus conhecimentos e colaborar em projetos dinâmicos em grupo.
