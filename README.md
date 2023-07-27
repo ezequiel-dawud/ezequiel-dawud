@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Olá, meu nome é Ezequiel Dawud
+Estudante de Análise e desenvolvimento de sistemas
 <!--
 **ezequiel-dawud/ezequiel-dawud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-<div><h1>Ezequiel Figueiredo Dawud</h1>
-<img src="Frame 4.svg" style= width:200px></div>
-
-Olá, me chamo Ezequiel Dawud
 Sou estudante de Análise e desenvolvimento de sistemas na faculdade São Francisco de Assis, busco entrar na área de desenvolvimento Web como desenvolvedor Front End a partir de um estágio. Sou inquieto por natureza, já tenho uma formação superior em Agronomia - UFRGS, porém decidi mudar de área por ser mais conectado a área de desenvolvimento e por tudo o que ela pode fazer.
 
 
