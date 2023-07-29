@@ -1,7 +1,9 @@
 Olá, meu nome é Ezequiel Dawud - 
 Estudante de Análise e desenvolvimento de sistemas
 
-Sou estudante de Análise e desenvolvimento de sistemas na faculdade São Francisco de Assis, busco entrar na área de desenvolvimento Web como desenvolvedor Front End a partir de um estágio. Sou inquieto por natureza, já tenho uma formação superior em Agronomia - UFRGS, porém decidi mudar de área por ser mais conectado a área de desenvolvimento e por tudo o que ela pode fazer.
+Estudo na faculdade São Francisco de Assis, busco entrar na área de desenvolvimento Web como desenvolvedor Front End a partir de um estágio. Sou inquieto por natureza, já tenho uma formação superior em Agronomia - UFRGS, porém decidi mudar de área por ser mais conectado a área de desenvolvimento e por tudo o que ela pode fazer.
+
+Adquiro conhecimento a partir de cursos da Alura, cursos livres na internet e disciplinas da faculdade.
 
 **🔽Atualmente, estou estudando**
 <br><br>
@@ -18,12 +20,8 @@ Sou estudante de Análise e desenvolvimento de sistemas na faculdade São Franci
             <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
             <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
           
-          
-          
-          
-
+     
 🌱 Busco o aperfeiçoamento diário, aplicando os conhecimentos adquiridos nos cursos em meus projetos. <br>
-🤝 Estou procurando estágio para poder aplicar meus conhecimentos e colaborar em projetos dinâmicos em grupo.
-
+🤝 Estou procurando estágio para colaborar em projetos dinâmicos em grupo e evoluir como programador.
 
 
