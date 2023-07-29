@@ -23,7 +23,11 @@ Adquiro conhecimento a partir de cursos da Alura, cursos livres na internet e di
      
 🌱 Busco o aperfeiçoamento diário, aplicando os conhecimentos adquiridos nos cursos em meus projetos. <br>
 🤝 Estou procurando estágio para colaborar em projetos dinâmicos em grupo e evoluir como programador. <br><br>
+<a href="linkedin.com/in/ezequiel-dawud-979387207">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="https://www.instagram.com/ezequiel_dawud/">
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
 
 
