@@ -11,7 +11,9 @@ Adquiro conhecimento a partir de cursos da Alura, cursos livres na internet e di
            <img  width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
            <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
            <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          <br><br>
+           <img  width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+           <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+           <br><br>
  ▶além de lógica de programação e os conteúdos vistos na graduação em ADS, como exemplo a linguagem C***
 <br><br>
 
