@@ -5,7 +5,7 @@ Estudo na faculdade São Francisco de Assis, busco entrar na área de desenvolvi
 
 Adquiro conhecimento a partir de cursos da Alura, cursos livres na internet e disciplinas da faculdade.
 
-**🔽Atualmente, estou estudando** <br>
+**🔽Atualmente, estou estudando** <br><br>
            <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
            <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
            <br><br>
